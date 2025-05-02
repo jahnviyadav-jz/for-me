@@ -1,1 +1,0 @@
-from _14module import myFunc
