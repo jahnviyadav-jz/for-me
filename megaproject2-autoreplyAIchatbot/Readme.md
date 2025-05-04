@@ -1,0 +1,3 @@
+###requirements 
+1. pip install pyautogui 
+2. pip install pyperclip 
